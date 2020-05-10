@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SK6805-1515
+D RGB LED with integrated controller
+K RGB LED NeoPixel Nano addressable
+F https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

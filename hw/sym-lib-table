@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name dsb211sdn)(type Legacy)(uri ${KIPRJMOD}/lib/dsb211sdn/DSB211SDN.lib)(options "")(descr ""))
+  (lib (name lp5907)(type Legacy)(uri ${KIPRJMOD}/lib/lp5907/LP5907UVX-3.3_NOPB.lib)(options "")(descr ""))
+  (lib (name sk6805)(type Legacy)(uri ${KIPRJMOD}/lib/sk6805/SK6805-2427.lib)(options "")(descr ""))
+)

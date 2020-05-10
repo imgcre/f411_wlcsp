@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name dsb211sdn)(type KiCad)(uri ${KIPRJMOD}/lib/dsb211sdn)(options "")(descr ""))
+  (lib (name lp5907)(type KiCad)(uri ${KIPRJMOD}/lib/lp5907)(options "")(descr ""))
+  (lib (name sk6805)(type KiCad)(uri ${KIPRJMOD}/lib/sk6805)(options "")(descr ""))
+  (lib (name utilities)(type KiCad)(uri ${KIPRJMOD}/lib/utilities)(options "")(descr ""))
+  (lib (name sksvcce010)(type KiCad)(uri ${KIPRJMOD}/lib/sksvcce010)(options "")(descr ""))
+)
